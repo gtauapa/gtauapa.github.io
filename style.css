@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #d0e0fa;
+}
+.lead {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+#Anggota {
+  background-color: #d0e0fa;
+}
+section {
+  padding-top: 4rem;
+}
+#page {
+  overflow: hidden;
+  font-size: x-small;
+}
+body {
+  font-size: medium;
+}

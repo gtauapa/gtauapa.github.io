@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #d0e0fa;
+}
+
+.lead {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+section {
+  padding-top: 4rem;
+}
+
+#page {
+  overflow: hidden;
+  font-size: x-small;
+  background-color: #d0e0fa;
+}
+
+body {
+  font-size: medium;
+}
